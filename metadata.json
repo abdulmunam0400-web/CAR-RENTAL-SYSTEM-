@@ -1,0 +1,6 @@
+{
+  "name": "Munam Rent a Car",
+  "description": "A comprehensive, modern car rental system featuring vehicle search, advanced filtering, instant booking configuration with price calculation, user reservation tracking, and an admin dashboard for fleet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
